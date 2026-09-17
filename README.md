@@ -8,6 +8,8 @@ This guide covers that gap: governance, risk, accountability, law, and the manag
 
 ➡️ **[Open the study guide](Awesome-CISSP-Study-Guide.md)**
 
+📄 **[Download the Word version (.docx)](https://github.com/vitalsecurity/awesome-cissp/raw/main/Awesome-CISSP-Study-Guide.docx)**
+
 ---
 
 ## Who This Is For
