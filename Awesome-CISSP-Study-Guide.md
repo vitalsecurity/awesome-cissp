@@ -369,6 +369,9 @@ Under Clark-Wilson, a user never touches the data directly. Access runs through 
 
 The CISSP exam uses **Computerized Adaptive Testing (CAT)** and will stop anytime between after question **100** and question **150**.
 
+> [!IMPORTANT]
+> **Outline change:** ISC2 says that from **15 April 2027** the CISSP exam will be based on a new exam outline. If you are booking near that date, check the [CISSP exam outline](https://www.isc2.org/certifications/cissp/cissp-certification-exam-outline) before you sit. Source: [ISC2](https://www.isc2.org/certifications/cissp)
+
 > [!NOTE]
 > **→ Official References**
 >
